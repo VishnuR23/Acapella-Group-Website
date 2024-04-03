@@ -1,0 +1,22 @@
+.Pic1{
+    height: 500px; 
+    width: 1000px;
+}
+
+.Pic2{
+    height: 500px;
+    width: 1000px; 
+}
+
+.Pic3{
+    height: 500px;
+    width: 1000px;
+}
+
+.photo-carousel1{
+    margin-left: 100px;
+}
+
+.custom .slick-next{
+    right: 155px;
+}

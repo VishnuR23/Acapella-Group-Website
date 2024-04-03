@@ -1,0 +1,23 @@
+.member-card {
+    display: flex;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 20px;
+  }
+  
+  .member-photo img {
+    width: 50%;
+    object-fit: cover;
+  }
+  
+  .member-info {
+    padding: 20px;
+    width: 50%;
+  }
+  
+  .member-info h3, .member-info h4 {
+    margin: 0;
+  }
+
+  
