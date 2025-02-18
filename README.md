@@ -1,11 +1,7 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Utilized React + Vite to create a commissioned website for an Acappella Group at UC Berkeley. The website itself features a slew of different features including an interactive video wheel, routing to different webpages, a popup page featuring character profiles and more! 
 
-Currently, two official plugins are available:
+This project ultimately highlights a ton of different basic and complex skills within React, including design utiling CSS and HTML as well as backend functionality with JAVASCRIPT. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Project2
-# Project2
-# Project-2---FullStackDecal
+
